@@ -24,13 +24,19 @@
 
 1. intro
 
++ notice
+
 For ..., a notice is released here to provide the necessary information about
 ...
 
++ letter
+
 I'm the chairman of the Student's Union.
 
-I'm writing to put forward some suggestions concerning ···. My proposals are as
+I'm writing this letter to put forward some suggestions concerning ···. My proposals are as
 the following.
+
+I'm writing this letter on behalf of all our graduates to invite you to attend ...
 
 2. information or suggestions
 
@@ -41,6 +47,10 @@ Building No.3. It will begin at 6 p.m and lasts for 3 hours.
 
 Library will be opened from 8 a.m to 10 p.m from Monday to Friday, and 9 a.m to
 9 p.m on weekends.
+
++ other
+
+Please let us know your decision as soon as possible so that we could send you futher details concerned.
 
 3. summary
 
