@@ -7,7 +7,7 @@
 
 # direction 1
 
-### 总结
+## 总结
 
 1. 文章基本结构
 
@@ -20,7 +20,7 @@
 + notice
 + email | letter
 
-### 基本句型
+## 基本句型
 
 1. intro
 
@@ -44,16 +44,14 @@ Library will be opened from 8 a.m to 10 p.m from Monday to Friday, and 9 a.m to
 
 3. summary
 
-If you have any questions or suggestions about ···, please contact us at 1234567
-or send an email to our university@163.com. We sincerely hope you enjoy the
-study and life in our university.
+If you have any problems or suggestions. Please call our official hotline and send email to our mailbox.
 
 I'll appreciate it if my advice can offer you some help. And I firmly believe
 that your are going to have a great time ...
 
 # direction 2
 
-### 总结
+## 总结
 
 1. 可能出现的文章类型
 
@@ -68,16 +66,17 @@ that your are going to have a great time ...
 + 举例论证，名言或者实际生活中的例子
 + 道理论证，我们为什么要这么做？
 
-### 基本句型
+## 基本句型
 
 1. picture description
 
-Recently, there has been a heated discuss over the different choices after the
-graduation.
-
+As is portrayed in the picture, ...
 Simple as they are, the meaning behind them is profound: ...
 
-The picture illustrates that ...
+As is symbolically mirrowd in the caricatures, there emerges two cicrcumstances. In the first cartoon, ... On the contrary ...
+
+Recently, there has been a heated discuss over the different choices after the
+graduation.
 
 2. body
 
