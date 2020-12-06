@@ -2,7 +2,7 @@
 
 import os
 
-OUTPUT_FILE = open('./index.md', 'a')
+OUTPUT_FILE = open('./index.md', 'w')
 
 def walk_dir(rel_path: str, dep: int):
     for file_name in os.listdir(rel_path):
