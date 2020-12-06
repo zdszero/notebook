@@ -3,7 +3,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 include:
   - index.md
-  - Math/errors.md
-  - Math/计算经
