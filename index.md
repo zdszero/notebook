@@ -42,11 +42,8 @@
 + [5-中值定理.md](./Math/5-中值定理.md)
 + [6-概率论.md](./Math/6-概率论.md)
 + [7-线性代数.md](./Math/7-线性代数.md)
-+ [errors.md](./Math/errors.md)
-+ [test.md](./Math/test.md)
-+ [tricks.md](./Math/tricks.md)
-+ [微积分的几何意义.md](./Math/微积分的几何意义.md)
 + [线性代数的几何意义.md](./Math/线性代数的几何意义.md)
++ [错误总结.md](./Math/错误总结.md)
 
 # [Politics](./Politics)
 
