@@ -4,4 +4,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - ./Math/**.md
+  - ./Math/errors.md
+  - ./Math/计算经
