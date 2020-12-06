@@ -5,7 +5,7 @@ import os
 OUTPUT_FILE = open('./index.md', 'w')
 
 def walk_dir(rel_path: str, dep: int):
-    for file_name in os.listdir(rel_path):
+    for file_name in sorted(os.listdir(rel_path)):
         file_path = rel_path + '/' + file_name
         if not file_name.startswith('.') and file_name != 'img' and os.path.isdir(file_path):
             OUTPUT_FILE.write('{} [{}]({})'.format('#' * dep, file_name, file_path) + os.linesep * 2)
