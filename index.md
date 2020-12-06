@@ -1,11 +1,14 @@
+
 # [Computer](./Computer)
 
 + [cpu.md](./Computer/cpu.md)
 + [partition.md](./Computer/partition.md)
+
 # [English](./English)
 
 + [English_reading.md](./English/English_reading.md)
 + [English_writing.md](./English/English_writing.md)
+
 ## [Essay](./English/Essay)
 
 + [2011.md](./English/Essay/2011.md)
@@ -17,6 +20,7 @@
 + [2017.md](./English/Essay/2017.md)
 + [2018.md](./English/Essay/2018.md)
 + [movie.md](./English/Essay/movie.md)
+
 # [Linux](./Linux)
 
 + [auto_mount.md](./Linux/auto_mount.md)
@@ -27,6 +31,7 @@
 + [shell.md](./Linux/shell.md)
 + [text_edit.md](./Linux/text_edit.md)
 + [xorg.md](./Linux/xorg.md)
+
 # [Math](./Math)
 
 + [0-其他.md](./Math/0-其他.md)
@@ -42,22 +47,25 @@
 + [tricks.md](./Math/tricks.md)
 + [微积分的几何意义.md](./Math/微积分的几何意义.md)
 + [线性代数的几何意义.md](./Math/线性代数的几何意义.md)
+
 # [Politics](./Politics)
 
 + [单选知识点.md](./Politics/单选知识点.md)
 + [答题模板.md](./Politics/答题模板.md)
 + [选择特征分析.md](./Politics/选择特征分析.md)
 + [马克思.md](./Politics/马克思.md)
+
 # [Programming](./Programming)
 
 + [basic_ds.md](./Programming/basic_ds.md)
 + [c_compile.md](./Programming/c_compile.md)
 + [javascript_loop.md](./Programming/javascript_loop.md)
+
 ## [sync](./Programming/sync)
 
 + [thread_sync.md](./Programming/thread_sync.md)
+
 # [Think](./Think)
 
 + [ccp_remark.md](./Think/ccp_remark.md)
 + [fairness.md](./Think/fairness.md)
-+ [index.md](./index.md)
