@@ -4,5 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - ./Math/errors.md
-  - ./Math/计算经
+  - index.md
+  - Math/errors.md
+  - Math/计算经
