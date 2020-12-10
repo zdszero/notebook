@@ -42,13 +42,15 @@
 + [5-中值定理.md](./Math/5-中值定理.md)
 + [6-概率论.md](./Math/6-概率论.md)
 + [7-线性代数.md](./Math/7-线性代数.md)
++ [做题心态.md](./Math/做题心态.md)
 + [线性代数的几何意义.md](./Math/线性代数的几何意义.md)
 + [错误总结.md](./Math/错误总结.md)
 
 # [Politics](./Politics)
 
 + [单选知识点.md](./Politics/单选知识点.md)
-+ [答题模板.md](./Politics/答题模板.md)
++ [思修.md](./Politics/思修.md)
++ [毛中特_近代史.md](./Politics/毛中特_近代史.md)
 + [选择特征分析.md](./Politics/选择特征分析.md)
 + [马克思.md](./Politics/马克思.md)
 
