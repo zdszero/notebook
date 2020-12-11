@@ -52,7 +52,7 @@
 + [思修.md](./Politics/思修.md)
 + [毛中特_近代史.md](./Politics/毛中特_近代史.md)
 + [选择特征分析.md](./Politics/选择特征分析.md)
-+ [马克思.md](./Politics/马克思.md)
++ [马原.md](./Politics/马原.md)
 
 # [Programming](./Programming)
 
