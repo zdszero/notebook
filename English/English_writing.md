@@ -70,11 +70,16 @@ that your are going to have a great time ...
 
 2. 正文的基本思路
 
-对于社会问题，可以先说明问题产生的原因，在提出解决问题的方法。
-
 对于道理讲解，可以从以下几个角度出发:
 + 举例论证，名言或者实际生活中的例子
 + 道理论证，我们为什么要这么做？
+
+想不出来写什么的时候，从以下角度出发：
++ 事件产生的原因
++ 我们应该怎么做
+
+怎么做：
++ we should raise the awareness of the teenagers to ...
 
 ## 基本句型
 
@@ -99,4 +104,4 @@ relative measures.
 
 3. summary
 
-As far as I'm concerned, I would like ...
+Hence, it is vital for us to derive positive implications from the above cartoon. For one thing, ··· For another thing, ···
