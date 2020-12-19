@@ -9,99 +9,132 @@
 
 ## 总结
 
-1. 文章基本结构
++ 文章基本结构
+    + 介绍写信缘由，通知主题
+    + 详细介绍相关信息
+    + 总结
 
-+ 介绍写信缘由 | 通知主题
-+ 详细介绍相关信息
-+ 总结
+## 文章结构
 
-2. 可能出现的文章类型
+### Notice
 
-+ notice
-+ email | letter
+```
+            Notice
+                        Dec.26, 2020
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 The Student's Union
+                             Li Ming
+```
+
+### Email
+
+```
+Dear ( international student | Sir or Madam | friend ),
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                Yours Sincerely,
+                                        Li Ming
+
+```
 
 ## 基本句型
 
-1. intro
+### intro
 
 + notice
 
-For ..., a notice is released here to provide the necessary information about
-...
+```
+For better serving the international students, a notice is released here to provide the 
+necessary information about ···
+
+In order to enrich the campus life and cultivate the colledge culture, the Student' Union
+is preparing the upcoming singing contest. And a notice about the necessary information is
+released here.
+```
 
 + letter
 
-I'm the chairman of the Student's Union.
-
+```
+SUGGESTION:
 I'm writing this letter to put forward some suggestions concerning ···. My proposals are as
 the following.
 
-I'm writing this letter on behalf of all our graduates to invite you to attend ...
+INFO:
+I'm writing this letter on behalf oh the Student's Union to provide you with some necessary 
+information about ···
+```
 
-2. information or suggestions
+### information or suggestions
 
-+ date and time
-
+```
+DATE AND TIME:
 The conference will be held next Sunday, Jan. 3th in the Room 200, Teaching
 Building No.3. It will begin at 6 p.m and lasts for 3 hours.
 
 Library will be opened from 8 a.m to 10 p.m from Monday to Friday, and 9 a.m to
 9 p.m on weekends.
+```
 
-+ other
+### summary
 
-Please let us know your decision as soon as possible so that we could send you futher details concerned.
+```
+We're looking forward to your participation.
 
-3. summary
-
-If you have any problems or suggestions. Please call our official hotline and send email to our mailbox.
+If you have any problems or suggestions. Please call our official hotline or
+send email to our official mailbox.
 
 I'll appreciate it if my advice can offer you some help. And I firmly believe
 that your are going to have a great time ...
+```
 
 # direction 2
 
 ## 总结
 
-1. 可能出现的文章类型
++ 可能出现的文章类型
+    + 社会问题
+    + 人生道理
 
-+ 社会问题
-+ 人生道理
-
-2. 正文的基本思路
-
-对于道理讲解，可以从以下几个角度出发:
-+ 举例论证，名言或者实际生活中的例子
-+ 道理论证，我们为什么要这么做？
-
-想不出来写什么的时候，从以下角度出发：
-+ 事件产生的原因
-+ 我们应该怎么做
-
-怎么做：
-+ we should raise the awareness of the teenagers to ...
++ 人生鸡汤论述思路
+    + 为什么应该这么做？
+    + 这么做有什么意义？
+    + 应该怎么做？
 
 ## 基本句型
 
-1. picture description
+### picture description
 
+```
 As is portrayed in the picture, ...
 Simple as they are, the meaning behind them is profound: ...
 
-As is symbolically mirrowd in the caricatures, there emerges two cicrcumstances. In the first cartoon, ... On the contrary ...
+As is symbolically mirrowd in the caricatures, there emerges two cicrcumstances.
+In the first cartoon, ... On the contrary, ...
+```
 
-Recently, there has been a heated discuss over the different choices after the
-graduation.
+### body
 
-2. body
-
+```
+社会现象：
 To be specific, in our daily life, 
 
 So what's the cause of such phonomenon? Some factors are accounting for this.
 
+人生鸡汤：
+Admittedly, all of us have to tendency to avoid the hardship when persuing our
+goals. But we should realize the fact that obstacles are inevitable. Now that
+we cannot escape from the challenge, why don't we keep our courage and make
+effords to overcome it ?
+```
+
+### summary
+
+```
+Hence, it is vital for us to derive positive implications from the above cartoon.
+For one thing, ··· For another thing, ···
+
 From what has been discussed above, it's urgent to take some effective and
 relative measures.
 
-3. summary
-
-Hence, it is vital for us to derive positive implications from the above cartoon. For one thing, ··· For another thing, ···
+From what has been discussed above, we should realize the significance of ···
+Therefore, we ought to ···
+```
